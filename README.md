@@ -8,8 +8,6 @@ TypeScript, using NextJS and MaterialUI.
 
 ## Running the frontend
 
-## Running the backend
-
 1. `git clone` the project
 2. `npm install`
 3. Sort out a configuration file or something, I haven't planned this yet
